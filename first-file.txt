@@ -1,5 +1,13 @@
 Skriver lite text i början
 
+<<<<<<< HEAD
 
 
 Adding third line
+=======
+Adding second line
+
+Adding third line
+>>>>>>> origin
+
+Hello
